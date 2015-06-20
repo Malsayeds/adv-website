@@ -1,1 +1,1 @@
-{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA","file":"app.css","sourcesContent":[],"sourceRoot":"/source/"}
+{"version":3,"sources":["app.less","app.css"],"names":[],"mappings":"AAAA;EACE,gBAAA;ECCD;ADCD;EACE,cAAA;EACA,aAAA;ECCD","file":"app.css","sourcesContent":["body{\n  color: #ff0000;\n}\ndiv{\n  height: auto;\n  width: auto;\n}",null],"sourceRoot":"/source/"}
