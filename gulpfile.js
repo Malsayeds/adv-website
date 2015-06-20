@@ -12,5 +12,6 @@ var elixir = require('laravel-elixir');
  */
 
 elixir(function(mix) {
-    mix.less('app.less');
+    mix.less('app.less')
+        .copy("normalize-css/normalize.css","public/css/vendor/normalize.css");
 });
