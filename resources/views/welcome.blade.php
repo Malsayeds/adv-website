@@ -1,4 +1,4 @@
-@extends('master')
+@extends('layout.master')
 @section('title')main title@stop
 @section('content')
     content
