@@ -1,10 +1,10 @@
 @extends('layout.master')
-@section('title')
+    @section('title')
     main title
-@stop
-@section('content')
+    @stop
+    @section('content')
     content
     @stop
-@section('footer')
+    @section('footer')
     copyright 2015
     @stop
